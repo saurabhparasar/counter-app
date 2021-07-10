@@ -39,5 +39,4 @@ class Counter extends Component {
     return value === 0 ? "zero" : value;
   }
 }
-
 export default Counter;
