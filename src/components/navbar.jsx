@@ -5,7 +5,7 @@ const NavBar = () => {
     <nav className="navbar navbar-light bg-light">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Navbar
+          NavBar
         </a>
       </div>
     </nav>
